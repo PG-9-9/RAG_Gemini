@@ -1,4 +1,4 @@
-# 📌 RAG Chatbot with Gemini Pro & ChromaDB
+# RAG Chatbot with Gemini Pro & ChromaDB
 
 This is a **Retrieval-Augmented Generation (RAG) chatbot** that integrates:
 - **Google Gemini Pro** for text generation
