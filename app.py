@@ -15,7 +15,7 @@ load_dotenv()
 st.title("Experimenting with Gemini and Streamlit")
 
 # Creating the document loader
-loader = PyPDFLoader("my_paper.pdf")
+loader = PyPDFLoader("yolov7.pdf")
 data = loader.load()
 
 # Creating chunks of text
